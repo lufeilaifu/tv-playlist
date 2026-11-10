@@ -17,6 +17,7 @@ Test lists (being verified on the captain's TV):
   laggy in the 2026-11-10 TV test; kept for reference.
 - test2.m3u: Migu (cmvideo) GSLB sources - TV test 2026-11-10: streams do not
   play (only the player's web-page fallback worked); dead, kept for reference.
-- test3.m3u: GITV platform sources (223.110.241.139) via Jiangsu Mobile list,
-  CCTV set + Jiangsu/Beijing TV, best (super-clear) variants:
-  https://raw.githubusercontent.com/lufeilaifu/tv-playlist/main/test3.m3u
+- test3.m3u: GITV platform sources (223.110.241.139) via Jiangsu Mobile list -
+  phone test 2026-11-10: playback fell back to the player's web-page source;
+  the streams themselves are not validated. All three platform families
+  (SH Mobile / Migu / GITV) failed as raw streams in third-party players.
