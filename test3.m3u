@@ -1,0 +1,37 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1" group-title="央视",CCTV-1
+http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2" group-title="央视",CCTV-2
+http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3" group-title="央视",CCTV-3
+http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4" group-title="央视",CCTV-4
+http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5" group-title="央视",CCTV-5
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV-5+" group-title="央视",CCTV-5+
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6" group-title="央视",CCTV-6
+http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7" group-title="央视",CCTV-7
+http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8" group-title="央视",CCTV-8
+http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9" group-title="央视",CCTV-9
+http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10" group-title="央视",CCTV-10
+http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11" group-title="央视",CCTV-11
+http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12" group-title="央视",CCTV-12
+http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13" group-title="央视",CCTV-13
+http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14" group-title="央视",CCTV-14
+http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15" group-title="央视",CCTV-15
+http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
+http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
