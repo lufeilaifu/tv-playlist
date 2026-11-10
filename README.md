@@ -12,6 +12,8 @@ are alive-verified; their resolution could not be measured from the build host.
 Subscribe URL:
 https://raw.githubusercontent.com/lufeilaifu/tv-playlist/main/list.m3u
 
-Test list (Shanghai China Mobile platform sources, playable only on Shanghai
-Mobile networks - being verified on the captain's TV):
-https://raw.githubusercontent.com/lufeilaifu/tv-playlist/main/test.m3u
+Test lists (being verified on the captain's TV):
+- test.m3u: Shanghai Mobile platform sources (39.134 node) - played but too
+  laggy in the 2026-11-10 TV test; kept for reference.
+- test2.m3u: Migu (cmvideo) GSLB sources with the complete CCTV set incl. 5+:
+  https://raw.githubusercontent.com/lufeilaifu/tv-playlist/main/test2.m3u
