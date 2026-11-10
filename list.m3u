@@ -61,14 +61,10 @@ https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459b
 http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
 https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="30A Golf Kingdom" tvg-name="30A Golf Kingdom" group-title="体育",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="ACI Sport TV SD" tvg-name="ACI Sport TV SD" group-title="体育",ACI Sport TV SD
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" group-title="体育",Arena Sport 1
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 tvg-id="Arena Sport 1 Premium (Serbia) (360p)" tvg-name="Arena Sport 1 Premium (Serbia) (360p)" group-title="体育",Arena Sport 1 Premium (Serbia) (360p)
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
 #EXTINF:-1 tvg-id="Arena Sport 1 Premium (Slovenia)" tvg-name="Arena Sport 1 Premium (Slovenia)" group-title="体育",Arena Sport 1 Premium (Slovenia)
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
 #EXTINF:-1 tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" group-title="体育",Arena Sport 2
@@ -77,18 +73,10 @@ http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
 #EXTINF:-1 tvg-id="Arena4" tvg-name="Arena4" group-title="体育",Arena4
 http://88.212.7.14/live/arena4/index.m3u8
-#EXTINF:-1 tvg-id="CBS Sports Golazo Network" tvg-name="CBS Sports Golazo Network" group-title="体育",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育（体育组）" group-title="体育",CCTV-5 体育（体育组）
 http://gmxw.7766.org:808/hls/93/index.m3u8
-#EXTINF:-1 tvg-id="DAZN 3 Portugal" tvg-name="DAZN 3 Portugal" group-title="体育",DAZN 3 Portugal
-http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN (Brazil)" tvg-name="ESPN (Brazil)" group-title="体育",ESPN (Brazil)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="ESPN (United States) HD" tvg-name="ESPN (United States) HD" group-title="体育",ESPN (United States) HD
-http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 (United States) HD" tvg-name="ESPN 2 (United States) HD" group-title="体育",ESPN 2 (United States) HD
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 Latin America Colombia" tvg-name="ESPN 2 Latin America Colombia" group-title="体育",ESPN 2 Latin America Colombia
 http://190.61.47.54:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 Latin America" tvg-name="ESPN 2 Latin America（1080p）" group-title="体育",ESPN 2 Latin America（1080p）
@@ -117,8 +105,6 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="ESPN8: The Ocho" tvg-name="ESPN8: The Ocho" group-title="体育",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-id="ESPNU HD" tvg-name="ESPNU HD" group-title="体育",ESPNU HD
-http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" group-title="体育",Eleven Sports 1
 http://92.114.85.87:8002/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2" group-title="体育",Eleven Sports 2
@@ -143,8 +129,6 @@ http://185.228.163.146:8000/play/a03z/index.m3u8
 http://89.44.231.73:7000/eurosport
 #EXTINF:-1 tvg-id="Eurosport 1 Russia" tvg-name="Eurosport 1 Russia" group-title="体育",Eurosport 1 Russia
 https://s7.iptv-24.net/1439/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport 1 Spain (576p)" tvg-name="Eurosport 1 Spain (576p)" group-title="体育",Eurosport 1 Spain (576p)
-http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2 Bulgaria" tvg-name="Eurosport 2 Bulgaria" group-title="体育",Eurosport 2 Bulgaria
 http://213.91.179.28:8000/play/a04b
 #EXTINF:-1 tvg-id="Eurosport 2 Czechia" tvg-name="Eurosport 2 Czechia" group-title="体育",Eurosport 2 Czechia
@@ -163,16 +147,10 @@ http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="体育",Fox Sports
 http://138.59.227.20:8000/play/a085/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1" tvg-name="Fox Sports 1" group-title="体育",Fox Sports 1
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports News" tvg-name="Fox Sports News" group-title="体育",Fox Sports News
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 tvg-id="Golf + (1080p) [Geo-blocked]" tvg-name="Golf + (1080p) [Geo-blocked]" group-title="体育",Golf + (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
-#EXTINF:-1 tvg-id="Golf Channel (United States) (576p)" tvg-name="Golf Channel (United States) (576p)" group-title="体育",Golf Channel (United States) (576p)
-https://tvsen6.aynaott.com/golfchannel/index.m3u8
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" group-title="体育",NBA TV
-http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" group-title="体育",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier Sports 2" tvg-name="Premier Sports 2" group-title="体育",Premier Sports 2
@@ -185,10 +163,6 @@ http://stream.mcquack.net/235/index.m3u8
 http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports 2" tvg-name="Sky Sports 2" group-title="体育",Sky Sports 2
 http://200.115.120.1:8000/play/ca82266/index.m3u8
-#EXTINF:-1 tvg-id="TNT Sports (Argentina) SD (576p)" tvg-name="TNT Sports (Argentina) SD (576p)" group-title="体育",TNT Sports (Argentina) SD (576p)
-http://181.78.79.131:8000/play/a0mo
-#EXTINF:-1 tvg-id="TNT Sports (Chile)" tvg-name="TNT Sports (Chile)" group-title="体育",TNT Sports (Chile)
-http://209.45.101.130:8040/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports Premium ArgentinaHD" tvg-name="TNT Sports Premium ArgentinaHD" group-title="体育",TNT Sports Premium ArgentinaHD
 http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="TNT Sports Premium HD" tvg-name="TNT Sports Premium HD" group-title="体育",TNT Sports Premium HD
@@ -207,8 +181,6 @@ http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA en Espanol" tvg-name="beIN SPORTS XTRA en Espanol" group-title="体育",beIN SPORTS XTRA en Espanol
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-id="beIN Sports USA (576p)" tvg-name="beIN Sports USA (576p)" group-title="体育",beIN Sports USA (576p)
-https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" group-title="体育",精品体育
 https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" group-title="体育",纬来体育
@@ -217,12 +189,8 @@ https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5ed
 http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Animax Asia Taiwan" tvg-name="Animax Asia Taiwan" group-title="港澳台",Animax Asia Taiwan
 http://125.227.210.55:3056/VideoInput/play.ts
-#EXTINF:-1 tvg-id="Beautiful Life TV" tvg-name="Beautiful Life TV" group-title="港澳台",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="CGNTV Chinese" tvg-name="CGNTV Chinese" group-title="港澳台",CGNTV Chinese
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 tvg-id="Canal Showsport" tvg-name="Canal Showsport" group-title="港澳台",Canal Showsport
-https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport (France) (1080p) [Geo-blocked]" tvg-name="Canal+ Sport (France) (1080p) [Geo-blocked]" group-title="港澳台",Canal+ Sport (France) (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport 2 SK" tvg-name="Canal+ Sport 2 SK" group-title="港澳台",Canal+ Sport 2 SK
@@ -259,22 +227,14 @@ https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist
 http://92.114.85.87:8003/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="Golden Jade" tvg-name="Golden Jade" group-title="港澳台",Golden Jade
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-#EXTINF:-1 tvg-id="Good 2" tvg-name="Good 2" group-title="港澳台",Good 2
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="Good TV (Taiwan) (720p) [Not 24/7]" tvg-name="Good TV (Taiwan) (720p) [Not 24/7]" group-title="港澳台",Good TV (Taiwan) (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-id="HBO Asia Taiwan" tvg-name="HBO Asia Taiwan" group-title="港澳台",HBO Asia Taiwan
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Hakka TV" tvg-name="Hakka TV" group-title="港澳台",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 tvg-id="Match! Premier (576p)" tvg-name="Match! Premier (576p)" group-title="港澳台",Match! Premier (576p)
-http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="Mei Ah Movie Channel" tvg-name="Mei Ah Movie Channel" group-title="港澳台",Mei Ah Movie Channel
 http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 #EXTINF:-1 tvg-id="NTD TV Asia-Pacific" tvg-name="NTD TV Asia-Pacific" group-title="港澳台",NTD TV Asia-Pacific
 https://live.ntdtv.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-id="Nautical Channel" tvg-name="Nautical Channel" group-title="港澳台",Nautical Channel
-https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Persiana Fight" tvg-name="Persiana Fight" group-title="港澳台",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" group-title="港澳台",Pet Club TV
@@ -297,22 +257,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Red Bull TV US" tvg-name="Red Bull TV US" group-title="港澳台",Red Bull TV US
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky Racing 1" tvg-name="Sky Racing 1" group-title="港澳台",Sky Racing 1
-https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
-#EXTINF:-1 tvg-id="Supreme Master TV" tvg-name="Supreme Master TV" group-title="港澳台",Supreme Master TV
-https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="TTV News" tvg-name="TTV News" group-title="港澳台",TTV News
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-id="TVBS-Asia" tvg-name="TVBS-Asia" group-title="港澳台",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="Trace Sport Stars" tvg-name="Trace Sport Stars" group-title="港澳台",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trace Sport Stars Russia" tvg-name="Trace Sport Stars Russia" group-title="港澳台",Trace Sport Stars Russia
-https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Trace Sport Stars SD" tvg-name="Trace Sport Stars SD" group-title="港澳台",Trace Sport Stars SD
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
-#EXTINF:-1 tvg-id="WXTV" tvg-name="WXTV" group-title="港澳台",WXTV
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" group-title="地方其他",1987年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 #EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" group-title="地方其他",1988年春晚
@@ -353,16 +305,10 @@ https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTl
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 #EXTINF:-1 tvg-id="2024年春晚" tvg-name="2024年春晚" group-title="地方其他",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 tvg-id="ABN China" tvg-name="ABN China" group-title="地方其他",ABN China
-https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 tvg-id="Ando TV" tvg-name="Ando TV" group-title="地方其他",Ando TV
 http://play.kankanlive.com/live/1711956137852982.m3u8
-#EXTINF:-1 tvg-id="Angel TV Chinese" tvg-name="Angel TV Chinese" group-title="地方其他",Angel TV Chinese
-https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Baicheng TV [Geo-blocked]" tvg-name="Baicheng TV [Geo-blocked]" group-title="地方其他",Baicheng TV [Geo-blocked]
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 tvg-id="Bread TV" tvg-name="Bread TV" group-title="地方其他",Bread TV
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" group-title="地方其他",CCTV怀旧剧场
 https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" group-title="地方其他",CCTV文化精品
