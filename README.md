@@ -11,3 +11,7 @@ are alive-verified; their resolution could not be measured from the build host.
 
 Subscribe URL:
 https://raw.githubusercontent.com/lufeilaifu/tv-playlist/main/list.m3u
+
+Test list (Shanghai China Mobile platform sources, playable only on Shanghai
+Mobile networks - being verified on the captain's TV):
+https://raw.githubusercontent.com/lufeilaifu/tv-playlist/main/test.m3u
