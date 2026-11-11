@@ -1,14 +1,19 @@
 # tv-playlist
 
 Live TV playlist (M3U), refreshed weekly from the Guovin iptv-api project
-(Guangdong `gd` output). 1,619 entries (2026-11-11): 央视 / 卫视 / 体育 /
-港澳台 / 各省地方台. Source project verifies its own streams; entries are
-published as-is, multiple backup URLs per channel.
+(Guangdong `gd` output). 715 entries (2026-11-11): 央视 / 卫视 / 体育 /
+港澳台 / 上海、四川地方台. Source project verifies its own streams; entries
+are published as-is, multiple backup URLs per channel.
 
 Switched 2026-11-11 by the captain's instruction: the previous 392-channel
 self-verified list (iptv-org / fanmingming / vbskycn sources, with (1080p)
 labels and the epg.112114.xyz EPG header) was removed in full and replaced
 by this upstream list.
+
+Trimmed 2026-11-11 by the captain's instruction: all provincial local
+groups except Shanghai and Sichuan removed (904 entries dropped from the
+1,619-entry upstream list; Jiangxi has no local group upstream — only
+江西卫视， kept inside the satellite group).
 
 - Playlist: `list.m3u`
 - EPG: declared in the playlist header (x-tvg-url, upstream Guovin epg.gz)
