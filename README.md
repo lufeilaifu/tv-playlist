@@ -1,13 +1,17 @@
 # tv-playlist
 
-Verified live TV playlist (M3U), re-checked weekly: every channel is probed
-(real playlist + first segment fetch) before it stays on the list.
-Channels marked (1080p) had their resolution measured from a real segment;
-junk relays and channels measured below 1080p are removed. Unmarked channels
-are alive-verified; their resolution could not be measured from the build host.
+Live TV playlist (M3U), refreshed weekly from the Guovin iptv-api project
+(Guangdong `gd` output). 1,619 entries (2026-11-11): 央视 / 卫视 / 体育 /
+港澳台 / 各省地方台. Source project verifies its own streams; entries are
+published as-is, multiple backup URLs per channel.
 
-- Playlist: `list.m3u` — groups: 央视 / 卫视 / 体育 / 港澳台 / 地方其他
-- EPG: declared in the playlist header (x-tvg-url), backup http://epg.51zmt.top:8000/e.xml
+Switched 2026-11-11 by the captain's instruction: the previous 392-channel
+self-verified list (iptv-org / fanmingming / vbskycn sources, with (1080p)
+labels and the epg.112114.xyz EPG header) was removed in full and replaced
+by this upstream list.
+
+- Playlist: `list.m3u`
+- EPG: declared in the playlist header (x-tvg-url, upstream Guovin epg.gz)
 
 Subscribe URL:
 https://raw.githubusercontent.com/lufeilaifu/tv-playlist/main/list.m3u
